@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "646616233271",
+    "firebase_url": "https://si700-calciostore-default-rtdb.firebaseio.com",
+    "project_id": "si700-calciostore",
+    "storage_bucket": "si700-calciostore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646616233271:android:02a982d69c57fb738d56b2",
+        "android_client_info": {
+          "package_name": "com.example.calciostore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646616233271-mupiblf9mkjl93rrau4ufeqpn5njv78f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDk81tG6xikoGJPhBZ8iYCUa8gLhIh77Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "646616233271-mupiblf9mkjl93rrau4ufeqpn5njv78f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
