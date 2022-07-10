@@ -1,16 +1,7 @@
-# click_counter
+# IoCalcio Store
 
-A new Flutter project.
+Projeto elaborado como trabalho ao longo da matéria de programação para dispositívos móveis do curso de Sistemas de informação da Unicamp
 
-## Getting Started
+## Aplicativo
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+O projeto visa simular o funcionamento de um aplicativo para compra de produtos. possuindo features como cadastro, lista de produtos, e carrinho de compras. O código foi criado principalmente em flutter/dart.
